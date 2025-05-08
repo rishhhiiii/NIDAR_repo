@@ -18,6 +18,4 @@ In this repository we have the following
 |Team Leader| Sinchan KN|
 |Team Vice-Leader| Vaishnav|
 
-this ............
-this is rakshita
 
