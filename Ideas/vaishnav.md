@@ -57,12 +57,16 @@ It is a small, low-cost microcntroller that is powered by a Dual core Xtensia pr
 ![ESP32](./Images/vaishnav/esp32.jpg)
 
 
-### Teensy 4.1 
+### Teensy 4.1
+
+It is a small, very-powerful microcontroller that is powered by an ARM Cortex-M7 processor. It has an in-built microSD card slot for data storage and has 55 GPIO pins. 
+
+#### Teensy 4.1 Specification
 
 1. ARM Cortex M-7 Processor operating at 600 MHz
 2. 1MB of RAM 
 3. 8MB of Flash Memory 
-4. 1 SD card slot 
+4. 1 microSD card slot 
 5. Ethernet connectivity 
 6. 55 GPIO Pins 
 7. Interfaces include :
@@ -70,4 +74,9 @@ It is a small, low-cost microcntroller that is powered by a Dual core Xtensia pr
     2. 3 CAN (Controller Area Network) Buses. 
     3. 8 UART ports 
     4. 3 I2C 
-8. 
+
+
+![Teensy](./Images/vaishnav/teensy.jpg)
+
+The above 2 microcontrollers are mainly for the "Delivery Drone". 
+

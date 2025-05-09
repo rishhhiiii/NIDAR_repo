@@ -6,6 +6,7 @@ In this repository we have the following
 2. [Minutes of Meeting](./MOM/)
 3. Pictures and Progress Reports
 4. 3D models
+5. [Idea Reports](./Ideas/)
 
 | Task  | Names   |
 |--------------- | --------------- |
@@ -17,5 +18,6 @@ In this repository we have the following
 |Admin| Spoorthi, Yati|
 |Team Leader| Sinchan KN|
 |Team Vice-Leader| Vaishnav|
+
 
 
