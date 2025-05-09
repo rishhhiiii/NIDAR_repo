@@ -77,3 +77,6 @@ It is a small, very-powerful microcontroller that is powered by an ARM Cortex-M7
 
 
 ![Teensy](./Images/vaishnav/teensy.jpg)
+
+The above 2 microcontrollers are mainly for the "Delivery Drone". 
+
